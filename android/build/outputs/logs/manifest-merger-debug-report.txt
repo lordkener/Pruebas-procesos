@@ -1,0 +1,341 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:2:1-24:12
+MERGED from [de.tomgrill.gdxfirebase:gdx-firebase-android:0.0.4-SNAPSHOT] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/75bdd762a3fe84409854ab6a025e756b/gdx-firebase-android-0.0.4-SNAPSHOT/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/0358736296dd02b9dc033c4989e0bea5/firebase-messaging-9.8.0/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.firebase:firebase-core:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/97f051521052055214f90a18f110b254/firebase-core-9.8.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/6f33741755e9b7e7010c7516bcc2aa21/firebase-auth-9.8.0/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/15da1b1a11dde3684c8bc40a9cf4c404/firebase-database-9.8.0/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1965dab25c47b1b204234534a367f76a/play-services-auth-9.8.0/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/5b621a8e55f6934a356760e3a408f4df/firebase-analytics-impl-9.8.0/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:16:1-51:12
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/e5325f8d7281c08daae25167d76ec490/firebase-auth-common-9.8.0/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database-connection:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/d2874393e7d9ce7d5792fea57890496d/firebase-database-connection-9.8.0/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/adee03dfb7f75202496e0b8903d74f31/firebase-common-9.8.0/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-auth-module:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/e4594f71cc6d8ab669ee96a219bad086/firebase-auth-module-9.8.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/9b845c6b1faebd3e0b926c2a7d689ac5/play-services-auth-base-9.8.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/d4f60a2fc1e4ee951b1796ddc520d564/play-services-base-9.8.0/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/72fbbe8eba99794e5ae7b276f0e88526/play-services-tasks-9.8.0/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/e7a91f9a0f6d9337dbe4db6ca03e11d9/play-services-basement-9.8.0/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:24.0.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/40d32208adda7144a111c5a7b35e7fdc/support-v4-24.0.0/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml
+		INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml
+		ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml
+		ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:5:5-22:19
+MERGED from [de.tomgrill.gdxfirebase:gdx-firebase-android:0.0.4-SNAPSHOT] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/75bdd762a3fe84409854ab6a025e756b/gdx-firebase-android-0.0.4-SNAPSHOT/AndroidManifest.xml:9:5-20
+MERGED from [de.tomgrill.gdxfirebase:gdx-firebase-android:0.0.4-SNAPSHOT] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/75bdd762a3fe84409854ab6a025e756b/gdx-firebase-android-0.0.4-SNAPSHOT/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/0358736296dd02b9dc033c4989e0bea5/firebase-messaging-9.8.0/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/0358736296dd02b9dc033c4989e0bea5/firebase-messaging-9.8.0/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-core:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/97f051521052055214f90a18f110b254/firebase-core-9.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/97f051521052055214f90a18f110b254/firebase-core-9.8.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/6f33741755e9b7e7010c7516bcc2aa21/firebase-auth-9.8.0/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/6f33741755e9b7e7010c7516bcc2aa21/firebase-auth-9.8.0/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1965dab25c47b1b204234534a367f76a/play-services-auth-9.8.0/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1965dab25c47b1b204234534a367f76a/play-services-auth-9.8.0/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/5b621a8e55f6934a356760e3a408f4df/firebase-analytics-impl-9.8.0/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/5b621a8e55f6934a356760e3a408f4df/firebase-analytics-impl-9.8.0/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/e5325f8d7281c08daae25167d76ec490/firebase-auth-common-9.8.0/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/e5325f8d7281c08daae25167d76ec490/firebase-auth-common-9.8.0/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/adee03dfb7f75202496e0b8903d74f31/firebase-common-9.8.0/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/adee03dfb7f75202496e0b8903d74f31/firebase-common-9.8.0/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/d4f60a2fc1e4ee951b1796ddc520d564/play-services-base-9.8.0/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/d4f60a2fc1e4ee951b1796ddc520d564/play-services-base-9.8.0/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/72fbbe8eba99794e5ae7b276f0e88526/play-services-tasks-9.8.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/72fbbe8eba99794e5ae7b276f0e88526/play-services-tasks-9.8.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/e7a91f9a0f6d9337dbe4db6ca03e11d9/play-services-basement-9.8.0/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/e7a91f9a0f6d9337dbe4db6ca03e11d9/play-services-basement-9.8.0/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/40d32208adda7144a111c5a7b35e7fdc/support-v4-24.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/40d32208adda7144a111c5a7b35e7fdc/support-v4-24.0.0/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:10:9-41
+	android:appCategory
+		ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:11:9-40
+	android:isGame
+		ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:8:9-30
+activity#com.mygdx.ttrispo.AndroidLauncher
+ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:12:9-21:20
+	android:screenOrientation
+		ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:15:13-49
+	android:label
+		ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:14:13-45
+	android:configChanges
+		ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:16:13-107
+	android:name
+		ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:13:13-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml
+INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml
+MERGED from [de.tomgrill.gdxfirebase:gdx-firebase-android:0.0.4-SNAPSHOT] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/75bdd762a3fe84409854ab6a025e756b/gdx-firebase-android-0.0.4-SNAPSHOT/AndroidManifest.xml:5:5-7:41
+MERGED from [de.tomgrill.gdxfirebase:gdx-firebase-android:0.0.4-SNAPSHOT] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/75bdd762a3fe84409854ab6a025e756b/gdx-firebase-android-0.0.4-SNAPSHOT/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/0358736296dd02b9dc033c4989e0bea5/firebase-messaging-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-messaging:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/0358736296dd02b9dc033c4989e0bea5/firebase-messaging-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-core:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/97f051521052055214f90a18f110b254/firebase-core-9.8.0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-core:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/97f051521052055214f90a18f110b254/firebase-core-9.8.0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/6f33741755e9b7e7010c7516bcc2aa21/firebase-auth-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/6f33741755e9b7e7010c7516bcc2aa21/firebase-auth-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/15da1b1a11dde3684c8bc40a9cf4c404/firebase-database-9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/15da1b1a11dde3684c8bc40a9cf4c404/firebase-database-9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1965dab25c47b1b204234534a367f76a/play-services-auth-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1965dab25c47b1b204234534a367f76a/play-services-auth-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/5b621a8e55f6934a356760e3a408f4df/firebase-analytics-impl-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/5b621a8e55f6934a356760e3a408f4df/firebase-analytics-impl-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/e5325f8d7281c08daae25167d76ec490/firebase-auth-common-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-auth-common:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/e5325f8d7281c08daae25167d76ec490/firebase-auth-common-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/d2874393e7d9ce7d5792fea57890496d/firebase-database-connection-9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/d2874393e7d9ce7d5792fea57890496d/firebase-database-connection-9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/adee03dfb7f75202496e0b8903d74f31/firebase-common-9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/adee03dfb7f75202496e0b8903d74f31/firebase-common-9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/e4594f71cc6d8ab669ee96a219bad086/firebase-auth-module-9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-auth-module:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/e4594f71cc6d8ab669ee96a219bad086/firebase-auth-module-9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/9b845c6b1faebd3e0b926c2a7d689ac5/play-services-auth-base-9.8.0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/9b845c6b1faebd3e0b926c2a7d689ac5/play-services-auth-base-9.8.0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/d4f60a2fc1e4ee951b1796ddc520d564/play-services-base-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/d4f60a2fc1e4ee951b1796ddc520d564/play-services-base-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/72fbbe8eba99794e5ae7b276f0e88526/play-services-tasks-9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/72fbbe8eba99794e5ae7b276f0e88526/play-services-tasks-9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/e7a91f9a0f6d9337dbe4db6ca03e11d9/play-services-basement-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/e7a91f9a0f6d9337dbe4db6ca03e11d9/play-services-basement-9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/40d32208adda7144a111c5a7b35e7fdc/support-v4-24.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.0.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/40d32208adda7144a111c5a7b35e7fdc/support-v4-24.0.0/AndroidManifest.xml:21:5-23:54
+INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml
+INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/40d32208adda7144a111c5a7b35e7fdc/support-v4-24.0.0/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml
+		ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml
+		INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml
+		ADDED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml
+		INJECTED from /Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/AndroidManifest.xml
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/0358736296dd02b9dc033c4989e0bea5/firebase-messaging-9.8.0/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/0358736296dd02b9dc033c4989e0bea5/firebase-messaging-9.8.0/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/0358736296dd02b9dc033c4989e0bea5/firebase-messaging-9.8.0/AndroidManifest.xml:23:18-87
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/0358736296dd02b9dc033c4989e0bea5/firebase-messaging-9.8.0/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/0358736296dd02b9dc033c4989e0bea5/firebase-messaging-9.8.0/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/0358736296dd02b9dc033c4989e0bea5/firebase-messaging-9.8.0/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/0358736296dd02b9dc033c4989e0bea5/firebase-messaging-9.8.0/AndroidManifest.xml:25:25-75
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1965dab25c47b1b204234534a367f76a/play-services-auth-9.8.0/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1965dab25c47b1b204234534a367f76a/play-services-auth-9.8.0/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1965dab25c47b1b204234534a367f76a/play-services-auth-9.8.0/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1965dab25c47b1b204234534a367f76a/play-services-auth-9.8.0/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1965dab25c47b1b204234534a367f76a/play-services-auth-9.8.0/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1965dab25c47b1b204234534a367f76a/play-services-auth-9.8.0/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1965dab25c47b1b204234534a367f76a/play-services-auth-9.8.0/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1965dab25c47b1b204234534a367f76a/play-services-auth-9.8.0/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1965dab25c47b1b204234534a367f76a/play-services-auth-9.8.0/AndroidManifest.xml:24:18-63
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/5b621a8e55f6934a356760e3a408f4df/firebase-analytics-impl-9.8.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/5b621a8e55f6934a356760e3a408f4df/firebase-analytics-impl-9.8.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/5b621a8e55f6934a356760e3a408f4df/firebase-analytics-impl-9.8.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/5b621a8e55f6934a356760e3a408f4df/firebase-analytics-impl-9.8.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/5b621a8e55f6934a356760e3a408f4df/firebase-analytics-impl-9.8.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/5b621a8e55f6934a356760e3a408f4df/firebase-analytics-impl-9.8.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/5b621a8e55f6934a356760e3a408f4df/firebase-analytics-impl-9.8.0/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/5b621a8e55f6934a356760e3a408f4df/firebase-analytics-impl-9.8.0/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/5b621a8e55f6934a356760e3a408f4df/firebase-analytics-impl-9.8.0/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/5b621a8e55f6934a356760e3a408f4df/firebase-analytics-impl-9.8.0/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/1e9fa7981361bcd24c73ab93d170dc78/firebase-analytics-9.8.0/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:24:17-71
+permission#com.mygdx.ttrispo.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:26:22-76
+uses-permission#com.mygdx.ttrispo.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:31:13-35:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+action:name:com.google.android.c2dm.intent.REGISTRATION+category:name:com.mygdx.ttrispo
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:34:27-58
+category#com.mygdx.ttrispo
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:44:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/c01ec8db2d760de913c80a119b469096/firebase-iid-9.8.0/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/adee03dfb7f75202496e0b8903d74f31/firebase-common-9.8.0/AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/adee03dfb7f75202496e0b8903d74f31/firebase-common-9.8.0/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/adee03dfb7f75202496e0b8903d74f31/firebase-common-9.8.0/AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/adee03dfb7f75202496e0b8903d74f31/firebase-common-9.8.0/AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/adee03dfb7f75202496e0b8903d74f31/firebase-common-9.8.0/AndroidManifest.xml:6:79-124
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/d4f60a2fc1e4ee951b1796ddc520d564/play-services-base-9.8.0/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/d4f60a2fc1e4ee951b1796ddc520d564/play-services-base-9.8.0/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/d4f60a2fc1e4ee951b1796ddc520d564/play-services-base-9.8.0/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/d4f60a2fc1e4ee951b1796ddc520d564/play-services-base-9.8.0/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/e7a91f9a0f6d9337dbe4db6ca03e11d9/play-services-basement-9.8.0/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/e7a91f9a0f6d9337dbe4db6ca03e11d9/play-services-basement-9.8.0/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/hamsaaldrobi/.gradle/caches/transforms-2/files-2.1/e7a91f9a0f6d9337dbe4db6ca03e11d9/play-services-basement-9.8.0/AndroidManifest.xml:20:20-65

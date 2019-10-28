@@ -1,0 +1,4 @@
+#Mon Oct 28 02:15:22 CET 2019
+base.0=/Users/hamsaaldrobi/Documents/GitHub/ttrispo/android/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
